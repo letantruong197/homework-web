@@ -1,0 +1,33 @@
+Bài tập
+Tạo ra một object để có thể thực hiện toàn bộ
+các phép tính cộng trừ nhân chia của 4 số
+
+Bài tập về nhà
+Phần 1: Function
+1. Viết hàm tính nghiệm của hàm số ax+b = 0
+với a và b là tham số truyền vào: function(a,b)=> return kết quả
+2. Viết hàm tính nghiệm của hàm số ax^2+bx+c = 0
+với a,b,c là tham số truyền vào: function(a,b,c)=> return kết quả
+
+
+Phần 2: Object
+Tạo ra object tính tiền điện
+Tính tiền điện dân dụng
+https://timo.vn/blogs/tai-khoan-thanh-toan/cach-tinh-hoa-don-tien-dien-ban-can-biet/
+object={
+  bac1:,
+  bac2,
+  bac3,
+  bac4,...
+}
+Tạo ra object của loài chim với các thuộc tính của nó
+loaiChim = {
+  canh: 2,
+  khaNangBay: true,
+};
+// tip: Nhớ phần địa chỉ của array
+chimCanhCut = loaiChim;
+chimCanhCut.khaNangBay = false;
+
+Từ object loài chim ta sẽ tạo ra 5 loài chim riêng biệt
+với các thuộc tính khác biệt
